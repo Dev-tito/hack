@@ -37,11 +37,11 @@
       },
       "MUST_JOIN": {
         "description": "قنـاه اشتـراك اجبـاري",
-        "value": "VIP_CREATORS",
+        "value": "D2_RK",
         "required": false
       },
       "DISABLED": {
-        "description": "Menu names which you want to disable, without space (Example: a b j)",
+        "description": "سيبها فاضيه)",
         "value": "",
         "required": false
       },
